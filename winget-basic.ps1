@@ -4,7 +4,7 @@
 ### Here can you add apps that you want to configure during installation ###
 # just add the app id from winget
 $graphical = @(
-    "ClamWin.ClamWin"
+    #"ClamWin.ClamWin"
 );
 
 ### These apps are installed silently for all users ###
@@ -12,18 +12,41 @@ $graphical = @(
 
 $apps = @(
     "7zip.7zip"
-    "Foxit.FoxitReader"
     "Microsoft.VCRedist.2015+.x64"
     "Microsoft.VCRedist.2015+.x86"
-    "9NCBCSZSJRSB"          # Spotify
-    "9NKSQGP7F2NH"          # Whatsapp Desktop
-    "9WZDNCRFJ3TJ"          # Netflix
-    "9P6RC76MSMMJ"          # Prime Video
-    "9N7F2SM5D1LR"          # Windows HDR Calibration
-    "9PMMSR1CGPWG"          # HEIF-PictureExtension
-    "9MVZQVXJBQ9V"          # AV1 VideoExtension
-    "9NCTDW2W1BH8"          # Raw-PictureExtension
-    "9N95Q1ZZPMH4"          # MPEG-2-VideoExtension
+    "Microsoft.VCRedist.2013.x64"
+    "Microsoft.VCRedist.2013.x86"
+    "Obsidian.Obsidian"
+    "Notepad++.Notepad++"
+    "Git.Git"
+    "Microsoft.VisualStudioCode"
+    "AIMP.AIMP"
+    "CodecGuide.K-LiteCodecPack.Standard"
+    "KeePassXCTeam.KeePassXC"
+    "Yandex.Disk"
+    "VivaldiTechnologies.Vivaldi"
+    "Syncthing.Syncthing"
+    "Discord.Discord"
+    "PuTTY.PuTTY"
+    "Microsoft.WindowsTerminal"
+    "Microsoft.PowerShell"
+    "Google.Chrome"
+    "qBittorrent.qBittorrent"
+    "WireGuard.WireGuard"
+    "Klocman.BulkCrapUninstaller"
+    "HydraLauncher.Hydra"
+    "GIMP.GIMP"
+    "Valve.Steam"
+    "HeroicGamesLauncher.HeroicGamesLauncher"
+    "Ubisoft.Connect"
+    "RiotGames.LeagueOfLegends.EUW"
+    "WinSCP.WinSCP"
+    "Codeusa.BorderlessGaming"
+    "LocalSend.LocalSend"
+    "geeksoftwareGmbH.PDF24Creator"
+    "Telegram.TelegramDesktop"
+    "Microsoft.PowerToys"
+    "HWiNFO.HWiNFO"
 );
 
 $bloatware = @(
