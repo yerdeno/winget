@@ -47,6 +47,9 @@ $apps = @(
     "Telegram.TelegramDesktop"
     "Microsoft.PowerToys"
     "HWiNFO.HWiNFO"
+    "GlennDelahoy.SnappyDriverInstallerOrigin"
+    "AnyDeskSoftwareGmbH.AnyDesk"
+    "OO-Software.ShutUp10"
 );
 
 $bloatware = @(
