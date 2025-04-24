@@ -11,11 +11,11 @@ $graphical = @(
 # for msstore apps you need to specify the source like below
 
 $apps = @(
-    "7zip.7zip"
     "Microsoft.VCRedist.2015+.x64"
     "Microsoft.VCRedist.2015+.x86"
     "Microsoft.VCRedist.2013.x64"
     "Microsoft.VCRedist.2013.x86"
+    "7zip.7zip"
     "Obsidian.Obsidian"
     "Notepad++.Notepad++"
     "Git.Git"
@@ -24,8 +24,7 @@ $apps = @(
     "CodecGuide.K-LiteCodecPack.Standard"
     "KeePassXCTeam.KeePassXC"
     "Yandex.Disk"
-    "VivaldiTechnologies.Vivaldi"
-    "Syncthing.Syncthing"
+    "Vivaldi.Vivaldi"
     "Discord.Discord"
     "PuTTY.PuTTY"
     "Microsoft.WindowsTerminal"
@@ -39,17 +38,19 @@ $apps = @(
     "Valve.Steam"
     "HeroicGamesLauncher.HeroicGamesLauncher"
     "Ubisoft.Connect"
-    "RiotGames.LeagueOfLegends.EUW"
     "WinSCP.WinSCP"
-    "Codeusa.BorderlessGaming"
     "LocalSend.LocalSend"
     "geeksoftwareGmbH.PDF24Creator"
     "Telegram.TelegramDesktop"
     "Microsoft.PowerToys"
-    "HWiNFO.HWiNFO"
+    "REALiX.HWiNFO"
     "GlennDelahoy.SnappyDriverInstallerOrigin"
-    "AnyDeskSoftwareGmbH.AnyDesk"
+    "AnyDesk.AnyDesk"
     "OO-Software.ShutUp10"
+    "voidtools.Everything"
+    "stnkl.EverythingToolbar"
+    "lin-ycv.EverythingCmdPal"
+    "lin-ycv.EverythingPowerToys"
 );
 
 $bloatware = @(
