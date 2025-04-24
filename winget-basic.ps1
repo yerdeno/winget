@@ -25,7 +25,7 @@ $apps = @(
     "KeePassXCTeam.KeePassXC"
     "Yandex.Disk"
     "Vivaldi.Vivaldi"
-    "Discord.Discord"
+    # "Discord.Discord" русские назад
     "PuTTY.PuTTY"
     "Microsoft.WindowsTerminal"
     "Microsoft.PowerShell"
@@ -34,7 +34,7 @@ $apps = @(
     "WireGuard.WireGuard"
     "Klocman.BulkCrapUninstaller"
     "HydraLauncher.Hydra"
-    "GIMP.GIMP"
+    "GIMP.GIMP.3"
     "Valve.Steam"
     "HeroicGamesLauncher.HeroicGamesLauncher"
     "Ubisoft.Connect"
