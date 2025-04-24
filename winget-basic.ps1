@@ -11,6 +11,7 @@ $graphical = @(
 # for msstore apps you need to specify the source like below
 
 $apps = @(
+    "OO-Software.ShutUp10"
     "Microsoft.VCRedist.2015+.x64"
     "Microsoft.VCRedist.2015+.x86"
     "Microsoft.VCRedist.2013.x64"
@@ -46,7 +47,7 @@ $apps = @(
     "REALiX.HWiNFO"
     "GlennDelahoy.SnappyDriverInstallerOrigin"
     "AnyDesk.AnyDesk"
-    "OO-Software.ShutUp10"
+    "ShareX.ShareX"
     "voidtools.Everything"
     "stnkl.EverythingToolbar"
     "lin-ycv.EverythingCmdPal"
