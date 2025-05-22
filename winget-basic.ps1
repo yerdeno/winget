@@ -11,7 +11,7 @@ $graphical = @(
 # for msstore apps you need to specify the source like below
 
 $apps = @(
-    # essentials
+    # Essentials
     "Git.Git"
     "vim.vim"
     "Notepad++.Notepad++"
@@ -25,10 +25,11 @@ $apps = @(
     "7zip.7zip"
     "geeksoftwareGmbH.PDF24Creator"
     "Klocman.BulkCrapUninstaller"
-    "Anysphere.Cursor" # or "Microsoft.VisualStudioCode"
+    "Microsoft.VisualStudioCode"
     "Obsidian.Obsidian"
     "KeePassXCTeam.KeePassXC"
-    # media
+
+    # Media
     "ShareX.ShareX"
     "Telegram.TelegramDesktop"
     "AIMP.AIMP --ignore-security-hash"
@@ -36,7 +37,8 @@ $apps = @(
     "GIMP.GIMP.3"
     "Yandex.Disk"
     # "Discord.Discord" русские назад
-    # browsers and internet
+
+    # Browsers and internet
     "Vivaldi.Vivaldi"
     "Google.Chrome"
     "qBittorrent.qBittorrent"
@@ -46,8 +48,8 @@ $apps = @(
     "WinSCP.WinSCP"
     "LocalSend.LocalSend"
     "AnyDesk.AnyDesk"
-    "Microsoft.WindowsApp"
-    # tools
+
+    # Tools
     "Microsoft.PowerToys"
     "voidtools.Everything"
     "stnkl.EverythingToolbar"
@@ -55,7 +57,8 @@ $apps = @(
     "lin-ycv.EverythingPowerToys"
     "REALiX.HWiNFO"
     "GlennDelahoy.SnappyDriverInstallerOrigin"
-    # games
+
+    # Games
     "HydraLauncher.Hydra"
     "Valve.Steam"
     "HeroicGamesLauncher.HeroicGamesLauncher"
